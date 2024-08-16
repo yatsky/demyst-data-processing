@@ -1,0 +1,4 @@
+attrs==24.2.0
+click==8.1.7
+Faker==27.0.0
+pyspark==3.5.2
